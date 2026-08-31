@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 GE 4120: 21st Century IT Skills
+# ✨💖 GE 4120: 21st Century IT Skills 💖✨
 ### *Digital Portfolio*
 
 ![Student](https://img.shields.io/badge/Student-Princess_Hannah_Bea_Maramara-ffb6c1?style=for-the-badge&logoColor=black)
