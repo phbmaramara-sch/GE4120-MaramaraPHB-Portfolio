@@ -26,7 +26,7 @@
 
 <br/>
 
-| 🌸 **ACTIVITY 1** | 🎨 **ACTIVITY 2** | 📱 **ACTIVITY 3** |
+| [<img src="https://img.shields.io/badge/🌸_ACTIVITY_1-ffb6c1?style=for-the-badge&logoColor=white" width="100%">](./Activity-1) | [<img src="https://img.shields.io/badge/🎨_ACTIVITY_2-ffc0cb?style=for-the-badge&logoColor=white" width="100%">](./Activity-2) | [<img src="https://img.shields.io/badge/📱_ACTIVITY_3-ffd1dc?style=for-the-badge&logoColor=white" width="100%">](./Activity-3) |
 | :---: | :---: | :---: |
 | **Presentation Design Principles** | **Color Palette & Typography** | **Social Media Infographics & Project Documentation** |
 | <sub>Focuses on applying core visual design principles to improve layout structure and clarity. It emphasizes alignment, contrast, whitespace, and effective slide design for presentation outputs.</sub> | <sub>Explores color theory, accessibility ratios, and font pairing techniques. It highlights selecting harmonious palettes and typography systems for visual storytelling.</sub> | <sub>Features a one-page infographic simplifying a real-world issue alongside project documentation. It proposes a technology solution through clear visual and written communication.</sub> |
