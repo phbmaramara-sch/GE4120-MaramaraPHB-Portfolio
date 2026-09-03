@@ -9,7 +9,7 @@
 ## 🎀 🦋 Activity Overview 🦋 🎀
 
 > *✨ Visual Hierarchy, Balance & Readability ✨*
->
+> 
 > 🌸 This activity demonstrates core visual design principles applied to presentation materials. It focuses on effective layout structure, strategic contrast, functional whitespace, and clear typography to maximize audience retention and readability. 🌷
 
 ---
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-[<img src="https://img.shields.io/badge/🔙_Back_to_Main_Portfolio-ff69b4?style=for-the-badge&logo=github&logoColor=white" height="32">][<img src="https://img.shields.io/badge/🔙_Back_to_Main_Portfolio-ff69b4?style=for-the-badge&logo=github&logoColor=white" height="32">](https://github.com/phbmaramara-sch/GE4120-MaramaraPHB-Portfolio)
+[<img src="https://img.shields.io/badge/🔙_Back_to_Main_Portfolio-ff69b4?style=for-the-badge&logo=github&logoColor=white" height="32">](/phbmaramara-sch/GE4120-MaramaraPHB-Portfolio)
 
 </div>
 
