@@ -17,11 +17,25 @@ Welcome to my digital portfolio! This repository serves as a showcase of my crea
 
 ## 🗂️ Portfolio Directory
 
-| Folder | Topic / Focus | Action |
-| :--- | :--- | :---: |
-| **`📂 Activity-1`** | **Presentation Design Principles** | [📁 Open Folder](./Activity-1) |
-| **`📂 Activity-2`** | **Color Palette & Typography** | [📁 Open Folder](./Activity-2) |
-| **`📂 Activity-3`** | **Social Media Infographics & Mini Project** | [📁 Open Folder](./Activity-3) |
+<div align="center">
+
+<a href="./Activity-1">
+  <img src="https://img.shields.io/badge/📂%20ACTIVITY%201-Presentation%20Design%20Principles-ffb6c1?style=for-the-badge&logoColor=white&labelColor=ff69b4" width="100%" alt="Activity 1">
+</a>
+
+<br/><br/>
+
+<a href="./Activity-2">
+  <img src="https://img.shields.io/badge/📂%20ACTIVITY%202-Color%20Palette%20%26%20Typography-ffb6c1?style=for-the-badge&logoColor=white&labelColor=ff69b4" width="100%" alt="Activity 2">
+</a>
+
+<br/><br/>
+
+<a href="./Activity-3">
+  <img src="https://img.shields.io/badge/📂%20ACTIVITY%203-Social%20Media%20Infographics-ffb6c1?style=for-the-badge&logoColor=white&labelColor=ff69b4" width="100%" alt="Activity 3">
+</a>
+
+</div>
 
 ---
 
