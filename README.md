@@ -1,63 +1,66 @@
-# 🌸 GE 4120: 21st Century IT Skills
-
-> **Digital Portfolio & Output Directory**  
-> *A collection of activity outputs, design documentations, and creative projects.*
-
----
-
-## 🎀 About the Portfolio
-
-Welcome to my digital portfolio! This repository serves as a showcase of my creative and technical outputs in **GE 4120: 21st Century IT Skills**. It highlights practical applications in presentation design, visual aesthetics, color theory, typography, and digital content creation.
-
-* **Student:** Princess Hannah Bea Maramara  
-* **Course:** GE 4120 – 21st Century IT Skills  
-* **Repository Status:** Active / Public  
-
----
-
-## 🗂️ Portfolio Directory
-
 <div align="center">
 
-<a href="./Activity-1">
-  <img src="https://img.shields.io/badge/📂%20ACTIVITY%201-Presentation%20Design%20Principles-ffb6c1?style=for-the-badge&logoColor=white&labelColor=ff69b4" width="100%" alt="Activity 1">
-</a>
+# 🌸 <font color="#FFB6C1">GE 4120: 21ST CENTURY IT SKILLS</font> 🌸
 
-<br/><br/>
-
-<a href="./Activity-2">
-  <img src="https://img.shields.io/badge/📂%20ACTIVITY%202-Color%20Palette%20%26%20Typography-ffb6c1?style=for-the-badge&logoColor=white&labelColor=ff69b4" width="100%" alt="Activity 2">
-</a>
-
-<br/><br/>
-
-<a href="./Activity-3">
-  <img src="https://img.shields.io/badge/📂%20ACTIVITY%203-Social%20Media%20Infographics-ffb6c1?style=for-the-badge&logoColor=white&labelColor=ff69b4" width="100%" alt="Activity 3">
-</a>
+<!-- Personal Metadata Banner -->
+![](https://img.shields.io/badge/STUDENT-Princess%20Hannah%20Bea%20Maramara-ffb6c1?style=for-the-badge&logo=heart)
+![](https://img.shields.io/badge/PROGRAM%2C%20YEAR%20%26%20SECTION-BS%20Nursing%20--%204D-ffd1dc?style=for-the-badge&logo=health)
 
 </div>
 
 ---
 
-## 🌷 Activity Overviews
+## 🎀 🦋 About the Portfolio 🦋 🎀
 
-### 📄 Activity 1: Presentation Design Principles
-* **Overview:** Explores foundational design principles used to create visually engaging and professional slide decks.
-* **Key Focus Areas:** Visual hierarchy, layout balance, intentional use of white space, and audience readability.
-* **Deliverables:** Re-designed presentation slides demonstrating improved layout structure and clear messaging.
+> *✨ Welcome to my digital showcase! ✨*
+> 
+> 🌸 This repository serves as a centralized hub highlighting my creative and technical growth in **GE 4120: 21st Century IT Skills**. It holds all my required course deliverables—including activity outputs, design documentations, mini projects, and assignments completed throughout the term. 🌷
 
-### 🎨 Activity 2: Color Palette & Typography
-* **Overview:** A deep dive into color psychology, contrast ratios, and font pairings to establish strong visual identity.
-* **Key Focus Areas:** Selecting complementary color schemes, pairing header/body typefaces for legibility, and applying accessibility standards.
-* **Deliverables:** Curated style guides showcasing custom color palettes and cohesive typography systems.
+---
 
-### 📱 Activity 3: Social Media Infographics & Mini Project
-* **Overview:** Focuses on digital content creation and visual storytelling for social media platforms.
-* **Key Focus Areas:** Graphic composition, information synthesis, branding consistency, and project documentation.
-* **Deliverables:** High-impact social media infographics accompanied by full project documentation.
+## 🌷 My Showcase
+
+<div align="center">
+
+### ![](https://img.shields.io/badge/✨%20PERIOD-PRELIMINARIES-ffb6c1?style=for-the-badge)
+
+<br/>
+
+| 🌸 **ACTIVITY 1** | 🎨 **ACTIVITY 2** | 📱 **ACTIVITY 3** |
+| :---: | :---: | :---: |
+| **Presentation Design Principles** | **Color Palette & Typography** | **Social Media Infographics & Project Documentation** |
+| <sub>Focuses on applying core visual design principles to improve layout structure and clarity. It emphasizes alignment, contrast, whitespace, and effective slide design for presentation outputs.</sub> | <sub>Explores color theory, accessibility ratios, and font pairing techniques. It highlights selecting harmonious palettes and typography systems for visual storytelling.</sub> | <sub>Features a one-page infographic simplifying a real-world issue alongside project documentation. It proposes a technology solution through clear visual and written communication.</sub> |
+| [<img src="https://img.shields.io/badge/View_Here-ff69b4?style=for-the-badge&logo=github&logoColor=white" height="28">](./Activity-1) | [<img src="https://img.shields.io/badge/View_Here-ff69b4?style=for-the-badge&logo=github&logoColor=white" height="28">](./Activity-2) | [<img src="https://img.shields.io/badge/View_Here-ff69b4?style=for-the-badge&logo=github&logoColor=white" height="28">](./Activity-3) |
+
+<br/>
+
+<!-- Prelim Video Presentation Banner -->
+[<img src="https://img.shields.io/badge/🎬_WATCH_PRELIM_VIDEO_PRESENTATION-ff1493?style=for-the-badge&logo=youtube&logoColor=white" height="38">](YOUR_VIDEO_LINK_HERE)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>✨ Curated with care for GE 4120 | © 2026 Princess Hannah Bea Maramara ✨</sub>
+
+### ![](https://img.shields.io/badge/✨%20PERIOD-MIDTERMS-ffc0cb?style=for-the-badge)
+
+> *🌸 Outputs and deliverables for the Midterm period will be updated soon! 🦋*
+
+</div>
+
+---
+
+<div align="center">
+
+### ![](https://img.shields.io/badge/✨%20PERIOD-PREFINALS-ffd1dc?style=for-the-badge)
+
+> *🌷 Outputs and deliverables for the Prefinal period will be updated soon! 🦋*
+
+</div>
+
+---
+
+<div align="center">
+  <sub>✨ Patience, Progress, and Purpose for GE 4120 | © 2026 Princess Hannah Bea Maramara ✨</sub>
 </div>
