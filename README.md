@@ -35,7 +35,7 @@
 <br/>
 
 <!-- Prelim Video Presentation Banner -->
-[<img src="https://img.shields.io/badge/🎬_WATCH_PRELIM_VIDEO_PRESENTATION-ff1493?style=for-the-badge&logo=youtube&logoColor=white" height="38">][(YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1cgFz1d8MGakY41jCrMZPMR1UYQC8HQlg/view?usp=drive_link))
+[<img src="https://img.shields.io/badge/🎬_WATCH_PRELIM_VIDEO_PRESENTATION-ff1493?style=for-the-badge&logo=youtube&logoColor=white" height="38">](https://drive.google.com/file/d/1cgFz1d8MGakY41jCrMZPMR1UYQC8HQlg/view?usp=drive_link)
 
 </div>
 
