@@ -45,7 +45,10 @@
 
 ### ![](https://img.shields.io/badge/✨%20PERIOD-MIDTERMS-ffc0cb?style=for-the-badge)
 
-> *🌸 Outputs and deliverables for the Midterm period will be updated soon! 🦋*
+<br/>
+
+<!-- Midterm PPT Presentation Banner -->
+[<img src="https://img.shields.io/badge/📊_VIEW_MIDTERM_PPT_PRESENTATION-d24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="38">](https://drive.google.com/file/d/1--zsKtTh2TIKun8-rtaL7rTZFQTOEcvZ/view?usp=drivesdk)
 
 </div>
 
