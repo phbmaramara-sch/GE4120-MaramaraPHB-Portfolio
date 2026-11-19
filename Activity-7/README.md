@@ -52,16 +52,35 @@
 </p>
 
 <p>
-  Click the button below to open and view the full Activity 7 submission! 💖
+  Click the cute pink button below to open and view the full Activity 7 submission! 💖
 </p>
 
 <br/>
 
-<a href="./YOUR_ACTIVITY_7_FILENAME.pdf" target="_blank">
+<a href="./maramara_activity7.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄✨_CLICK_HERE_TO_VIEW_ACTIVITY_7_PDF_✨📄-FFB7C5?style=for-the-badge" height="45">
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/phbmaramara-sch/GE4120-MaramaraPHB-Portfolio">
-  <img src="
+  <img src="https://img.shields.io/badge/🔙_Back_to_Main_Portfolio-ff69b4?style=for-the-badge&logo=github&logoColor=white" height="38">
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <p>
+    ₊˚⊹ ᰔ ────────── ୨୧ ────────── ᰔ ⊹˚₊
+  </p>
+  <sub>✨ Patience, Progress, and Purpose for GE 4120 | © 2026 Princess Hannah Bea Maramara ✨</sub>
+</div>
+
+<!-- BOTTOM PASTEL PINK BORDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB7C5&height=24" width="100%" />
+</p>
