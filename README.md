@@ -82,32 +82,37 @@
 <!-- ==================== PRELIM PERIOD ==================== -->
 <h3 align="center">🌷✨ Prelim Period ✨🌷</h3>
 
-<!-- Prelim Activities (3 Columns) -->
+<!-- Prelim Activities (3 Columns with Consistently Aligned Buttons) -->
 <table>
   <tr>
     <td width="33.3%" align="center" valign="top">
       <h4>🌸 Activity 1 🌸</h4>
       <p><b>Introduction to 21st Century IT Skills</b></p>
       <p>Exploring foundational digital tools and modern information technology essentials.</p>
-      <br/>
-      <a href="./Activity-1">
-        <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
-      </a>
     </td>
     <td width="33.3%" align="center" valign="top">
       <h4>🌸 Activity 2 🌸</h4>
       <p><b>Digital Productivity & Collaboration Tools</b></p>
       <p>Applying cloud-based productivity workflows and collaborative platforms.</p>
-      <br/>
-      <a href="./Activity-2">
-        <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
-      </a>
     </td>
     <td width="33.3%" align="center" valign="top">
       <h4>🌸 Activity 3 🌸</h4>
       <p><b>Information Management & Data Literacy</b></p>
       <p>Organizing, evaluating, and managing digital information effectively.</p>
-      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="middle">
+      <a href="./Activity-1">
+        <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="33.3%" align="center" valign="middle">
+      <a href="./Activity-2">
+        <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="33.3%" align="center" valign="middle">
       <a href="./Activity-3">
         <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
       </a>
@@ -120,15 +125,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=12" width="100%" />
 </p>
 
-<!-- Prelim Exam (True Full-Width Centered Block) -->
+<!-- Prelim Exam (Full-Width Centered Block) -->
 <div align="center">
   <h4>🎥 Preliminary Examination: Digital Portfolio Progress Presentation 🎥</h4>
   <p>
-    This Preliminary Examination requires students to create a recorded video presentation showcasing their learning progress and completed outputs from Weeks 1 to 5. Please submit the Google Drive link to your recorded video presentation, making sure that the sharing settings are properly configured so that the video is accessible to the instructor for viewing and evaluation.
+    A recorded video presentation highlighting my learning progress, key takeaways, and completed digital outputs from <b>Weeks 1 to 5</b> in <b>GE 4120</b>. Click the button below to watch the full presentation via Google Drive.
   </p>
   <p>
-    <a href="./Prelim-Exam">
-      <img src="https://img.shields.io/badge/🎥_Click_Here_to_View_Exam-F48FB1?style=for-the-badge" />
+    <a href="https://drive.google.com/file/d/1cgFz1d8MGakY41jCrMZPMR1UYQC8HQlg/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/🎥_Click_Here_to_Watch_Presentation-F48FB1?style=for-the-badge" />
     </a>
   </p>
 </div>
@@ -145,15 +150,15 @@
 <!-- ==================== MIDTERM PERIOD ==================== -->
 <h3 align="center">🌺✨ Midterm Period ✨🌺</h3>
 
-<!-- Midterm Reporting (True Full-Width Centered Block) -->
+<!-- Midterm Reporting (Full-Width Centered Block) -->
 <div align="center">
   <h4>🎤 Face-to-Face Reporting 🎤</h4>
   <p>
-    In-class oral reporting session presented using the attached PowerPoint presentation deck.
+    In-class oral reporting session delivered with our Group 3 presentation deck. Click the button below to view the slides via Canva.
   </p>
   <p>
-    <a href="./Midterm-Reporting">
-      <img src="https://img.shields.io/badge/📊_Click_Here_to_View_PPT-FFB7C5?style=for-the-badge" />
+    <a href="https://canva.link/GE4120-Group3-PPT" target="_blank">
+      <img src="https://img.shields.io/badge/📊_Click_Here_to_View_Slides-FFB7C5?style=for-the-badge" />
     </a>
   </p>
 </div>
@@ -163,14 +168,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=12" width="100%" />
 </p>
 
-<!-- Midterm Laboratory Exam (True Full-Width Centered Block) -->
+<!-- Midterm Laboratory Exam (Full-Width Centered Block) -->
 <div align="center">
   <h4>💻 Midterm Laboratory Examination 💻</h4>
   <p>
-    Hands-on practical laboratory examination assessing applied technical and digital productivity skills.
+    Hands-on practical laboratory examination assessing applied technical and digital productivity skills. Click the button below to view my laboratory outputs via Google Drive.
   </p>
   <p>
-    <a href="./Midterm-Lab-Exam">
+    <a href="https://drive.google.com/drive/folders/1xCla1aRYSt8DaxCO-DY18lcEHfwCYeUA?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/💻_Click_Here_to_View_Exam-F48FB1?style=for-the-badge" />
     </a>
   </p>
@@ -188,32 +193,37 @@
 <!-- ==================== PREFINALS PERIOD ==================== -->
 <h3 align="center">💮✨ Prefinals Period ✨💮</h3>
 
-<!-- Prefinals Activities (3 Columns) -->
+<!-- Prefinals Activities (3 Columns with Consistently Aligned Buttons) -->
 <table>
   <tr>
     <td width="33.3%" align="center" valign="top">
       <h4>🤖 Activity 5 🤖</h4>
       <p><b>AI Tools & Prompt Engineering</b></p>
       <p>Utilizing AI tools to craft effective prompts, featuring a comparison between a poor prompt and a detailed prompt to highlight the difference in AI output.</p>
-      <br/>
-      <a href="./Activity-5">
-        <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
-      </a>
     </td>
     <td width="33.3%" align="center" valign="top">
       <h4>🌐 Activity 6 🌐</h4>
       <p><b>AI-Assisted Website Creation</b></p>
       <p>Designing and building a functional website using Google Sites with the integration and assistance of AI tools.</p>
-      <br/>
-      <a href="./Activity-6">
-        <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
-      </a>
     </td>
     <td width="33.3%" align="center" valign="top">
       <h4>📄 Activity 7 📄</h4>
       <p><b>AI-Powered Resume Generation</b></p>
       <p>Creating and refining a professional resume through strategic AI utilization.</p>
-      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="middle">
+      <a href="./Activity-5">
+        <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="33.3%" align="center" valign="middle">
+      <a href="./Activity-6">
+        <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="33.3%" align="center" valign="middle">
       <a href="./Activity-7">
         <img src="https://img.shields.io/badge/✨_Click_Here_to_View-FFB7C5?style=for-the-badge" />
       </a>
