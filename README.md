@@ -5,7 +5,6 @@
 
 <!-- GENERATED PASTEL PINK BANNER -->
 <p align="center">
-  <img src="Images/pink-banner.jpg" alt="Pastel Pink Portfolio Banner" width="100%" />
 </p>
 
 <h1 align="center">🌸 GE 4120: 21st Century IT Skills 🌸</h1>
@@ -14,24 +13,39 @@
   ₊˚⊹ ᰔ ────────── ୨୧ ────────── ᰔ ⊹˚₊
 </p>
 
-<!-- SIDE-BY-SIDE PHOTO (BIGGER) & INTRO -->
+<!-- SIDE-BY-SIDE PHOTO & DECORATED INTRO -->
 <table>
   <tr>
     <td width="310" align="center" valign="middle">
-      <img src="Images/IMG_7939.jpg" alt="Princess Hannah Bea Maramara" width="280" />
+      <img src="Images/IMG_7939.JPG" width="280" />
+      <p align="center">
+        <sub>🌸 <i>Princess Hannah Bea Maramara ("Nana")</i> 🌸</sub>
+      </p>
     </td>
     <td valign="middle">
       <h2>🌷 Hey there! I'm Princess Hannah Bea Maramara 🌷</h2>
       <p>
+        ₊˚⊹ ᰔ ──────────── ୨୧ ──────────── ᰔ ⊹˚₊
+      </p>
+      <p>
         You may call me <b>Nana</b>! 💕 I am a <b>4th Year Nursing Student</b> from <b>Section D</b> at the <b>School of Nursing, Ateneo de Davao University</b>. 🩺✨
       </p>
       <p>
-        Balancing clinical practice and modern technology, this space serves as my digital hub for coursework, healthcare-adjacent tech outputs, and projects built throughout the semester. <b>Welcome to my repository!</b> 🎀
+        Balancing clinical practice and modern technology, this space serves as my digital hub for coursework, healthcare-adjacent tech outputs, and creative projects built throughout the semester. <b>Welcome to my repository!</b> 🎀
       </p>
+      <ul>
+        <li>🏥 <b>Program:</b> Bachelor of Science in Nursing (BSN 4 — Section D)</li>
+        <li>🎓 <b>University:</b> Ateneo de Davao University</li>
+        <li>💻 <b>Course Focus:</b> 21st Century IT Skills, Prompt Engineering & Digital Portfolios</li>
+        <li>🌷 <b>Motto:</b> <i>"God is within her, she will not fall; God will help her at break of day."</i></li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Ateneo_de_Davao-School_of_Nursing-FFB7C5?style=for-the-badge" />
         <img src="https://img.shields.io/badge/BSN_4-Section_D-FADADD?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Course-GE_4120-F8C8DC?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🏆_Your_PNLE_Top_1-2027-FFE4E9?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🩺_Future_MD-FFB7C5?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🧠_Future_Neurosurgeon-F48FB1?style=for-the-badge" />
       </p>
     </td>
   </tr>
@@ -240,15 +254,22 @@
 <table>
   <tr>
     <td width="290" align="center" valign="middle">
-      <img src="Images/IMG_9838.jpg" alt="Nana Course Reflection" width="260" />
+      <img src="Images/IMG_7938.JPG" width="260" />
     </td>
     <td valign="middle">
-      <h3>🌸 <i>A Little Note & Reflection</i> 🌸</h3>
+ <h3>🌸 <i>A Little Note & Reflection</i> 🌸</h3>
       <p>
-        Taking <b>GE 4120: 21st Century IT Skills</b> has been such an eye-opening and rewarding experience! ✨ From learning how to organize digital portfolios on GitHub and craft effective AI prompts to building my own website and professional resume, every activity pushed me to explore tools I never realized could make my academic and future nursing work so much smoother. 🩺💻
+        Taking <b>GE 4120: 21st Century IT Skills</b> has been such an eye-opening, creative, and rewarding experience! ✨ As a 4th Year Nursing student, slash part time all-rounder digital worker, and student leader, this course showed me how powerful digital tools can be for personal branding, productivity, and innovation. From organizing my own GitHub repository and mastering prompt engineering to designing a website on Google Sites and generating a polished resume with AI, every single activity pushed me out of my comfort zone and helped me build practical skills I never realized could make my academic and future endeavors so much smoother. 🩺💻
       </p>
       <p>
-        <b>Thank you so much to our wonderful instructor</b> for the patience, guidance, and engaging lessons throughout the semester. Your encouragement made technology feel approachable, creative, and genuinely empowering—skills I will proudly carry with me beyond the classroom! 💕🌷
+        More than just learning new software, this class taught me how to adapt confidently to fast-changing technology while still adding my own personal touch and creativity. 🎀🌟
+      </p>
+      <p>
+        <b>Thank you so much to our wonderful instructor, Ma'am Ariane Mendez</b> for the endless patience, clear guidance, and engaging lessons throughout the semester. Your encouragement and support made technology feel approachable, enjoyable, and genuinely empowering—lessons and digital skills I will proudly carry with me into my nursing career and beyond! 💕🌷
+      </p>
+      <p>
+        <i>Sincerely,</i><br/>
+        <b>Princess Hannah Bea Maramara</b> 🎀
       </p>
     </td>
   </tr>
